@@ -106,3 +106,4 @@ I believe in:
 <p align="center">
   <i>“Consistency compounds faster than motivation.”</i>
 </p>
+![snake animation](https://raw.githubusercontent.com/yeschirag/output/github-contribution-grid-snake.svg)
