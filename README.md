@@ -5,83 +5,107 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=800&center=true&vCenter=true&width=550&lines=Computer+Science+Undergraduate;Strong+in+DSA+%26+Problem+Solving;Full-Stack+Development+Enthusiast;Building+Skills+One+Day+at+a+Time" />
 </p>
 
----
+<hr/>
 
-## 👨‍🎓 About Me
+<h2>👨‍🎓 About Me</h2>
 
-🎓 **B.Tech in Computer Science Engineering** — IIIT Sri City  
-📍 Mumbai, India  
+<p>
+🎓 <b>B.Tech in Computer Science Engineering</b> — IIIT Sri City <br/>
+📍 Mumbai, India
+</p>
 
-I am a focused and detail-oriented Computer Science undergraduate with a strong inclination toward **Data Structures & Algorithms**, **clean coding**, and **real-world software development**.
+<p>
+I am a focused and detail-oriented Computer Science undergraduate with a strong inclination toward
+<b>Data Structures & Algorithms</b>, <b>clean coding</b>, and <b>real-world software development</b>.
+</p>
 
-I believe in:
-- Deep conceptual understanding  
-- Writing readable, efficient code  
-- Long-term consistency over shortcuts  
+<ul>
+  <li>Deep conceptual understanding</li>
+  <li>Readable, efficient code</li>
+  <li>Long-term consistency over shortcuts</li>
+</ul>
 
----
+<hr/>
 
-## 🧠 Core Interests
+<h2>🧠 Core Interests</h2>
 
-- Data Structures & Algorithms  
-- Competitive Programming  
-- Full-Stack Development  
-- System-Level Programming  
-- Problem Solving & Optimization  
+<ul>
+  <li>Data Structures & Algorithms</li>
+  <li>System Design</li>
+  <li>Full-Stack Development</li>
+  <li>System-Level Programming</li>
+  <li>Problem Solving & Optimization</li>
+</ul>
 
----
+<hr/>
 
-## 🛠️ Technical Skillset
+<h2>🛠️ Technical Skillset</h2>
 
-### 💻 Programming Languages
+<h3>💻 Programming Languages</h3>
 <p>
   <img src="https://skillicons.dev/icons?i=c,cpp,java,js,matlab" />
 </p>
 
-### 🌐 Web & Backend
+<h3>🌐 Frontend & Backend</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,flask" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,express" />
 </p>
 
-### 🧰 Tools & Platforms
+<h3>🗄️ Databases</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+<h3>🧰 Tools & Platforms</h3>
 <p>
   <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,gcp,figma" />
 </p>
 
----
+<hr/>
 
-## 📊 GitHub Activity & Stats
+<h2>📊 GitHub Activity</h2>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=yeschirag&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=yeschirag&theme=tokyonight&hide_border=true" />
+  <img height="165"
+    src="https://github-readme-stats.vercel.app/api?username=yeschirag&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+  <img height="165"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=yeschirag&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeschirag&layout=compact&theme=tokyonight&hide_border=true" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeschirag&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
----
+<hr/>
 
-## 🏆 GitHub Achievements
+<h2>🏆 GitHub Achievements</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yeschirag&theme=tokyonight&no-frame=true&column=6" />
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=yeschirag&theme=tokyonight&no-frame=true&margin-w=10" />
 </p>
 
----
+<hr/>
 
-## 🧾 Certification
+<h2>🧾 Certifications</h2>
 
-🎖 **Generative AI Certification — Google**  
-- Large Language Models (LLMs)  
-- Prompt Engineering  
-- Responsible AI  
-- Hands-on with Vertex AI & PaLM  
+<p>
+🎖 <b>Generative AI Certification — Google</b><br/>
+• Large Language Models (LLMs)<br/>
+• Prompt Engineering<br/>
+• Responsible AI<br/>
+• Vertex AI & PaLM
+</p>
 
----
+<p>
+🔗 <b>Google Generative AI Profile:</b><br/>
+<a href="PASTE_YOUR_GOOGLE_GEN_AI_PROFILE_LINK_HERE">View Certification Profile</a>
+</p>
 
-## 🌐 Connect With Me
+<hr/>
+
+<h2>🌐 Connect With Me</h2>
 
 <p align="center">
   <a href="https://github.com/yeschirag">
@@ -95,21 +119,19 @@ I believe in:
   </a>
 </p>
 
----
+<hr/>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yeschirag&label=Profile%20Views&color=blue&style=flat" />
 </p>
 
----
-
 <p align="center">
   <i>“Consistency compounds faster than motivation.”</i>
 </p>
+
 <br/>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yeschirag/yeschirag/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/yeschirag/yeschirag/output/github-contribution-grid-snake.svg"
+       alt="GitHub Contribution Snake" />
 </p>
-
-
