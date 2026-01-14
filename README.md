@@ -61,46 +61,15 @@ I am a focused and detail-oriented Computer Science undergraduate with a strong 
   <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,gcp,figma" />
 </p>
 
-<hr/>
-
-<h2>📊 GitHub Activity</h2>
-
-<p align="center">
-  <img height="165"
-    src="https://github-readme-stats.vercel.app/api?username=yeschirag&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-  <img height="165"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=yeschirag&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeschirag&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<hr/>
-
-<h2>🏆 GitHub Achievements</h2>
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=yeschirag&theme=tokyonight&no-frame=true&margin-w=10" />
-</p>
-
-<hr/>
-
 <h2>🧾 Certifications</h2>
 
 <p>
 🎖 <b>Generative AI Certification — Google</b><br/>
-• Large Language Models (LLMs)<br/>
-• Prompt Engineering<br/>
-• Responsible AI<br/>
-• Vertex AI & PaLM
 </p>
 
 <p>
 🔗 <b>Google Generative AI Profile:</b><br/>
-<a href="PASTE_YOUR_GOOGLE_GEN_AI_PROFILE_LINK_HERE">View Certification Profile</a>
+<a href="https://www.skills.google/public_profiles/df1a6340-16e0-4479-9046-80e12ab01be7">View Certification Profile</a>
 </p>
 
 <hr/>
