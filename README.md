@@ -80,10 +80,10 @@ I am a focused and detail-oriented Computer Science undergraduate with a strong 
   <a href="https://github.com/yeschirag">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="#">
+  <a href="https://www.linkedin.com/in/yeschirag/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:yeschirag">
+  <a href="mailto:chirag.k24@iiits.in">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
